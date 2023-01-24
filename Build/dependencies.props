@@ -1,0 +1,11 @@
+﻿<Project>
+    <PropertyGroup Label="SDK Versions">
+        <NetCoreTargetVersion>net7.0</NetCoreTargetVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Label="Package Versions">
+        <FluentValidation>11.4.0</FluentValidation>
+        <MicrosoftAspNetCoreOpenApi>7.0.2</MicrosoftAspNetCoreOpenApi>
+		<SwashbuckleAspNetCore>6.5.0</SwashbuckleAspNetCore>
+    </PropertyGroup>
+</Project>
